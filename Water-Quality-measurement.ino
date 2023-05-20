@@ -129,7 +129,6 @@ void loop()
 {
   //gps
   gpsCordinate(); //get cordinate
-//  Serial.println("Mode " + String(current_mode));
   but_1_state = digitalRead(SW1_PIN);
   but_2_state = digitalRead(SW2_PIN);
   but_3_state = digitalRead(SW3_PIN);
