@@ -1,6 +1,6 @@
 Include library
-- EC sensor https://github.com/GreenPonik/DFRobot_ESP_EC_BY_GREENPONIK
-- pH sensor https://github.com/GreenPonik/DFRobot_ESP_PH_BY_GREENPONIK
+- EC sensor edited version of https://github.com/GreenPonik/DFRobot_ESP_EC_BY_GREENPONIK
+- pH sensor edited version of https://github.com/GreenPonik/DFRobot_ESP_PH_BY_GREENPONIK
 - TinyGPSPlus https://github.com/mikalhart/TinyGPSPlus
 - TinyGSM https://github.com/vshymanskyy/TinyGSM
 - ADS1115 https://github.com/adafruit/Adafruit_ADS1X15
