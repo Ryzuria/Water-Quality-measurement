@@ -1,3 +1,4 @@
+Please add libraries that include in this file.
 Include library
 - EC sensor edited version of https://github.com/GreenPonik/DFRobot_ESP_EC_BY_GREENPONIK
 - pH sensor edited version of https://github.com/GreenPonik/DFRobot_ESP_PH_BY_GREENPONIK
