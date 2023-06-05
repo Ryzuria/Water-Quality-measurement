@@ -234,7 +234,7 @@ void loop()
     but_3_last_state = but_3_state;
     but_4_last_state = but_4_state;
     but_5_last_state = but_5_state;
-    msgcallback = "SW3 to send data";
+    msgcallback = "DWN to send data";
   }
 
   //EC screen
